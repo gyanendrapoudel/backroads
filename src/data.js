@@ -44,7 +44,7 @@ export const tours = [
     title: 'Tibet Adventure',
     text: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cumque vitae tempore voluptatum maxime reprehenderit eum quodexercitationem fugit, qui corporis.',
     day: '6 days',
-    dollar: 'from $2100',
+    cost: 'from $2100',
   },
   {
     id: 2,
